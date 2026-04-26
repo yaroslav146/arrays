@@ -1,4 +1,4 @@
-﻿string[]planes; // deklarace pole typu string, které bude obsahovat názvy letadel //
+﻿string[] planes; // deklarace pole typu string, které bude obsahovat názvy letadel //
 planes = new string[3]; // inicializace pole s velikostí 3, což znamená, že pole může obsahovat 3 hodnoty typu string. V tomto okamžiku jsou všechny hodnoty v poli null. //
 planes = new string[] { "f-14", "F-15", "F-16" }; // inicializace pole s třemi hodnotami //
 planes[0] = "F-14"; // přepsání hodnoty na indexu 0 v poli planes z "f-14" na "F-14" //
