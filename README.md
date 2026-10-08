@@ -1,0 +1,1 @@
+Program v C# ukazuje práci s polem `string[]`, jeho vytváření, přepisování a vyhledávání hodnot pomocí `Array.IndexOf()`. Uživatel si může vybrat letadlo ze seznamu a program následně vypíše jeho název, jednotlivé znaky pomocí `foreach` a `ToCharArray()`, délku pole a další hodnoty.
